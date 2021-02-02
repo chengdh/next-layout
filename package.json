@@ -1,5 +1,5 @@
 {
-  "name": "@moxy/next-layout",
+  "name": "@chengdh/next-layout",
   "version": "2.2.2",
   "description": "Add persistent and nested layouts to your Next.js projects in a declarative way",
   "main": "lib/index.js",
@@ -11,12 +11,12 @@
     "!**/__snapshots__",
     "!**/__mocks__"
   ],
-  "homepage": "https://github.com/moxystudio/next-layout#readme",
+  "homepage": "https://github.com/chengdh/next-layout#readme",
   "author": "André Cruz <andre@moxy.studio>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/moxystudio/next-layout.git"
+    "url": "git+https://github.com/chengdh/next-layout.git"
   },
   "keywords": [
     "react",
@@ -29,7 +29,7 @@
     "nested layouts"
   ],
   "bugs": {
-    "url": "https://github.com/moxystudio/next-layout/issues"
+    "url": "https://github.com/chengdh/next-layout/issues"
   },
   "scripts": {
     "build:commonjs": "cross-env BABEL_ENV=commonjs babel src -d lib --delete-dir-on-start",
